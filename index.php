@@ -88,6 +88,7 @@ function asd(){
 	</div>
 </div>
 </td>
+		<td><button onclick="play();"></button></td>
 <td>
 <div class="grid-2" style="z-index:2;">
 	<div class="menu_column">
